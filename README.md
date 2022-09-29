@@ -20,26 +20,26 @@
 [Конвертер в текстовую графику](https://github.com/Karafutoman/Converter-to-Text-graphics)
 
 ## Основы Git и Java
-3. [Внедрение системы контроля версий](https://github.com/Karafutoman/git1)
-4. [История работы и ветки](https://github.com/Karafutoman/git1/blob/main/src/Main.java)
-5. [Командная работа](https://github.com/Zmeykasofi/TeamAssignement)
-6. [Generics в коллекциях и методах](https://github.com/Karafutoman/Generics_Homework_1)
-7. [Коллекции List](https://github.com/Karafutoman/LIST)
-8. [Коллекции Queue](https://github.com/Karafutoman/HomeWork_Queue)
-9. [Коллекция HashMap ](https://github.com/Karafutoman/Homework_Hash) [и HashSet](https://github.com/Karafutoman/Homework_HashSet)
-10. [Коллекции TreeMap и TreeSet](https://github.com/Karafutoman/TreeMap_TreeSet)
+1. [Внедрение системы контроля версий](https://github.com/Karafutoman/git1)
+2. [История работы и ветки](https://github.com/Karafutoman/git1/blob/main/src/Main.java)
+3. [Командная работа](https://github.com/Zmeykasofi/TeamAssignement)
+4. [Generics в коллекциях и методах](https://github.com/Karafutoman/Generics_Homework_1)
+5. [Коллекции List](https://github.com/Karafutoman/LIST)
+6. [Коллекции Queue](https://github.com/Karafutoman/HomeWork_Queue)
+7. [Коллекция HashMap ](https://github.com/Karafutoman/Homework_Hash) [и HashSet](https://github.com/Karafutoman/Homework_HashSet)
+8. [Коллекции TreeMap и TreeSet](https://github.com/Karafutoman/TreeMap_TreeSet)
 
 ## JavaCore
 1. [Лямбда-выражения и функциональные интерфейсы](https://github.com/Karafutoman/TreeMap_TreeSet/pull/1)
-1. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Karafutoman/Stream-API)
-1. [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/Karafutoman/Homework-IO-Streams-Serialization/tree/serial/src)
-1. Сборка проектов. [Maven](https://github.com/Karafutoman/Homework-Maven) и [Gradle](https://github.com/Karafutoman/Homework-Gradle)
-1. [Работа с файлами CSV, XML, JSON](https://github.com/Karafutoman/Homework-IO-Streams-Serialization/tree/json)
-1. [Тестирование кода и Unit-тесты](https://github.com/Karafutoman/Homework_Unit_tests/blob/main/pom.xml)
-1. [Mockito. Мокирование вызовов](https://github.com/Karafutoman/Homework_Mockito)
-1. [Основы работы с сетью. Модель OSI](https://github.com/Karafutoman/Homework-Server-TCP)
-1. [Протокол HTTP. Вызовы удаленных серверов](https://github.com/Karafutoman/Homework_HTTP)
-1. [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Karafutoman/Homework_JVM_VisualVM)
+2. [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Karafutoman/Stream-API)
+3. [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/Karafutoman/Homework-IO-Streams-Serialization/tree/serial/src)
+4. Сборка проектов. [Maven](https://github.com/Karafutoman/Homework-Maven) и [Gradle](https://github.com/Karafutoman/Homework-Gradle)
+5. [Работа с файлами CSV, XML, JSON](https://github.com/Karafutoman/Homework-IO-Streams-Serialization/tree/json)
+6. [Тестирование кода и Unit-тесты](https://github.com/Karafutoman/Homework_Unit_tests/blob/main/pom.xml)
+7. [Mockito. Мокирование вызовов](https://github.com/Karafutoman/Homework_Mockito)
+8. [Основы работы с сетью. Модель OSI](https://github.com/Karafutoman/Homework-Server-TCP)
+9. [Протокол HTTP. Вызовы удаленных серверов](https://github.com/Karafutoman/Homework_HTTP)
+10. [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Karafutoman/Homework_JVM_VisualVM)
 
 ## Шаблоны проектирования
 1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype]
