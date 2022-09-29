@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Karafutoman/Karafutoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Java-разработка для начинающих
 ### Netology JAVA Developer course Homeworks
 
