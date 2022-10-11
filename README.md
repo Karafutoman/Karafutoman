@@ -44,6 +44,6 @@
 
 ## Шаблоны проектирования
 1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Karafutoman/Homework_Builder_Singleton_Factory-Method_Abstract-Factory_-Prototype)
-2. [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/Karafutoman/Homework_Proxy_Decorator_Adapter)
-3. [Поведенческие шаблоны. Command, CoR, Observer, Iterator]
-4. [Magics, DRY, SOLID]
+2. [Структурные шаблоны. Proxy, Decorator, Adapter](https://github.com/Karafutoman/Homework_Proxy_Decorator_Adapter)
+3. [Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility](https://github.com/Karafutoman/Homework_Command_Iterator_Observer_Chain-of-Responsibility)
+4. [Свойства хорошего кода и принцип SOLID]
