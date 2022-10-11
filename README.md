@@ -43,7 +43,7 @@
 11. [Курсовая работа «Менеджер личных финансов»]
 
 ## Шаблоны проектирования
-1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype]
+1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Karafutoman/Homework_Builder_Singleton_Factory-Method_Abstract-Factory_-Prototype)
 2. [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/Karafutoman/Homework_Proxy_Decorator_Adapter)
 3. [Поведенческие шаблоны. Command, CoR, Observer, Iterator]
 4. [Magics, DRY, SOLID]
