@@ -17,8 +17,8 @@
 12. [Исключения, Stacktrace](https://replit.com/@AndrieiS3/Stacktrace#Main.java)
 
 ## Курсовые работы
-[Конвертер в текстовую графику](https://github.com/Karafutoman/Converter-to-Text-graphics)
-[Менеджер личных финансов](https://github.com/Karafutoman/HomeworkCoursework_Personal-Finance-Manager)
+1. [Конвертер в текстовую графику](https://github.com/Karafutoman/Converter-to-Text-graphics)
+2. [Менеджер личных финансов](https://github.com/Karafutoman/HomeworkCoursework_Personal-Finance-Manager)
 
 ## Основы Git и Java
 1. [Внедрение системы контроля версий](https://github.com/Karafutoman/git1)
