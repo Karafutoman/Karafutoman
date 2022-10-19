@@ -41,7 +41,6 @@
 8. [Основы работы с сетью. Модель OSI](https://github.com/Karafutoman/Homework-Server-TCP)
 9. [Протокол HTTP. Вызовы удаленных серверов](https://github.com/Karafutoman/Homework_HTTP)
 10. [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Karafutoman/Homework_JVM_VisualVM)
-11. [Курсовая работа «Менеджер личных финансов»]
 
 ## Шаблоны проектирования
 1. [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Karafutoman/Homework_Builder_Singleton_Factory-Method_Abstract-Factory_-Prototype)
