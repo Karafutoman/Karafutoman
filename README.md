@@ -18,7 +18,8 @@
 
 ## Курсовые работы
 1. [Конвертер в текстовую графику](https://github.com/Karafutoman/Converter-to-Text-graphics)
-2. [Менеджер личных финансов](https://github.com/Karafutoman/HomeworkCoursework_Personal-Finance-Manager)
+2. [«Менеджер личных финансов»](https://github.com/Karafutoman/HomeworkCoursework_Personal-Finance-Manager)
+3. [«Менеджер задач»](https://github.com/Karafutoman/Homework_CourseWork_Taskmanager)
 
 ## Основы Git и Java
 1. [Внедрение системы контроля версий](https://github.com/Karafutoman/git1)
