@@ -17,7 +17,7 @@
 12. [Исключения, Stacktrace](https://replit.com/@AndrieiS3/Stacktrace#Main.java)
 
 ## Курсовые работы
-1. [Конвертер в текстовую графику](https://github.com/Karafutoman/Converter-to-Text-graphics)
+1. [«Конвертер в текстовую графику»](https://github.com/Karafutoman/Converter-to-Text-graphics)
 2. [«Менеджер личных финансов»](https://github.com/Karafutoman/HomeworkCoursework_Personal-Finance-Manager)
 3. [«Менеджер задач»](https://github.com/Karafutoman/Homework_CourseWork_Taskmanager)
 
@@ -48,3 +48,6 @@
 2. [Структурные шаблоны. Proxy, Decorator, Adapter](https://github.com/Karafutoman/Homework_Proxy_Decorator_Adapter)
 3. [Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility](https://github.com/Karafutoman/Homework_Command_Iterator_Observer_Chain-of-Responsibility)
 4. [Свойства хорошего кода и принцип SOLID](https://github.com/Karafutoman/Homework_Magics_DRY_SOLID)
+
+## Дипломная работа 
+1. [«Поисковая система»]()
