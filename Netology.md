@@ -47,4 +47,4 @@
 4. [Свойства хорошего кода и принцип SOLID](https://github.com/Karafutoman/Homework_Magics_DRY_SOLID)
 
 ## Дипломная работа 
-[«Поисковая система»]()
+[«Поисковая система»](https://github.com/Karafutoman/Graduate_work_Search_engine)
