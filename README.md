@@ -17,7 +17,7 @@
 #### [Netology JAVA Developer course Homeworks](https://github.com/Karafutoman/Karafutoman/blob/main/Netology.md)
 
 #### Домашние задания Основы разработки на Java
-#### [Netology Homeworks]()
+#### [Netology Homeworks](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_2.md)
 
 #### Образование
 2022г. ООО "Нетология"
