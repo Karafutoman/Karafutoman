@@ -11,9 +11,13 @@
 
 #### Сертификаты
 [Нетология: Java-разработка для начинающих](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_certificate.pdf)
+[Нетология: Основы разработки на Java](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_certificate_2.pdf)
 
 #### Домашние задания с курса Java-разработка для начинающих
 #### [Netology JAVA Developer course Homeworks](https://github.com/Karafutoman/Karafutoman/blob/main/Netology.md)
+
+#### Домашние задания Основы разработки на Java
+#### [Netology Homeworks]()
 
 #### Образование
 2022г. ООО "Нетология"
