@@ -18,6 +18,7 @@
 
 #### Домашние задания Основы разработки на Java
 #### [Netology Homeworks](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_2.md)
+#### [Netology Homeworks_Bot](https://github.com/Karafutoman/MyTelegramBot)
 
 #### Образование
 2022г. ООО "Нетология"
