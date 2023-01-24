@@ -22,6 +22,9 @@
 #### [Netology Homeworks](https://github.com/Karafutoman/Karafutoman/blob/main/Netology_2.md)
 #### [Netology Homeworks_Bot](https://github.com/Karafutoman/MyTelegramBot)
 
+#### Игры
+#### [Игра "Больше-меньше](https://github.com/Karafutoman/The-game-more-less-)
+
 #### Образование
 2022г. ООО "Нетология"
 Курс "Java-разработка для начинающих"
